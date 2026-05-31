@@ -9,7 +9,7 @@ export default function Footer() {
           <span style={s.logoText}>PRIA</span>
         </div>
         <p style={s.copy}>
-          Tecnología que trabaja por vos · Carlos Paz, Córdoba · Argentina
+          Tecnología que trabaja por vos · Córdoba · Argentina
         </p>
         <p style={s.year}>© {new Date().getFullYear()} PRIA. Todos los derechos reservados.</p>
       </div>

@@ -17,7 +17,7 @@ const products = [
   {
     id: 'PRIA STORE',
     name: 'Para tiendas',
-    desc: 'Tienda online profesional con catálogo, carrito y gestión de pedidos integrada.',
+    desc: 'Tienda online profesional con catálogo, carrito, gestión de pedidos integrada y pasarela de pagos.',
     featured: false,
     badge: null,
     features: [
@@ -30,7 +30,7 @@ const products = [
   {
     id: 'PRIA PRO',
     name: 'A medida',
-    desc: 'Desarrollo personalizado para negocios con necesidades específicas.',
+    desc: 'Desarrollo personalizado para tu negocio con necesidades específicas.',
     featured: false,
     badge: null,
     features: [
@@ -53,8 +53,7 @@ export default function Products() {
           <strong style={s.strong}>para cada industria</strong>
         </h2>
         <p style={s.desc}>
-          Productos específicos para los negocios que más necesitan
-          tecnología y menos tiempo tienen para aprenderla.
+          Nosotros hacemos el sistema para automatizar tu negocio y hacerlo crecer.
         </p>
 
         <div style={s.grid}>

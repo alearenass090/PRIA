@@ -4,12 +4,12 @@ const steps = [
   {
     num: '01',
     title: 'Hablamos',
-    desc: 'Entendemos tu negocio y qué necesitás resolver. Sin formularios complicados.',
+    desc: 'Entendemos tu negocio y qué necesitás resolver de forma directa, sin formulario.',
   },
   {
     num: '02',
     title: 'Diseñamos',
-    desc: 'Te mostramos exactamente qué vamos a hacer, cuánto cuesta y cuándo está listo.',
+    desc: 'Te mostramos qué vamos a hacer, cuánto cuesta y cuánto tiempo tardaria en estar listo.',
   },
   {
     num: '03',

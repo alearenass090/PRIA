@@ -17,13 +17,13 @@ const services = [
     icon: '🌐',
     title: 'Páginas web',
     desc: 'Diseño y desarrollo de sitios profesionales, tiendas online y landing pages que convierten visitas en clientes.',
-    tag: 'React · E-commerce · SEO',
+    tag: 'E-commerce · SEO',
   },
   {
     icon: '⚡',
     title: 'Automatizaciones',
     desc: 'Conectamos tus herramientas para que los procesos repetitivos sucedan solos. Más tiempo para lo que importa.',
-    tag: 'n8n · Make · Zapier',
+    
   },
 ]
 
@@ -39,7 +39,7 @@ export default function Services() {
         </h2>
         <p style={s.desc}>
           Desde una página web hasta un sistema completo con IA integrada.
-          Desarrollamos lo que necesitás, sin vueltas.
+          Desarrollamos lo que necesitás.
         </p>
 
         <div style={s.grid}>
