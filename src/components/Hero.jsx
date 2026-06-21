@@ -31,11 +31,11 @@ export default function Hero() {
           Tecnología que{' '}
           <em style={s.em}>trabaja</em>
           <br />
-          por tu negocio
+          para tu negocio
         </h1>
 
         <p style={s.p}>
-          Desarrollamos bots, CRMs, automatizaciones y páginas web
+          Desarrollamos agentes de IA, CRMs, creamos y automatizamos tu página web
           para que tu negocio crezca sin que estés mirando
           la pantalla todo el día.
         </p>
