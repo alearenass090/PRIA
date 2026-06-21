@@ -6,12 +6,10 @@ const products = [
     name: 'Para restaurantes',
     desc: 'Bot de reservas, menú digital y panel de gestión de clientes con fidelización automática.',
     featured: true,
-    badge: 'NUEVO',
     features: [
       'Bot que responde y toma reservas 24/7',
       'Menú digital actualizable',
       'Recordatorios automáticos por WhatsApp',
-      'Panel de clientes y estadísticas',
     ],
   },
   {
@@ -28,7 +26,7 @@ const products = [
     ],
   },
   {
-    id: 'PRIA PRO',
+    id: 'PRIA CUSTOM',
     name: 'A medida',
     desc: 'Desarrollo personalizado para tu negocio con necesidades específicas.',
     featured: false,
