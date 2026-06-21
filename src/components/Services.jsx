@@ -11,7 +11,7 @@ const services = [
     icon: '📋',
     title: 'CRM a medida',
     desc: 'Sistemas de gestión de clientes pensados para tu negocio. Sin complicaciones, sin funciones que no usás.',
-    tag: 'Gestión · Seguimiento · IA',
+    tag: 'Gestión · Seguimiento · Panel de administrador',
   },
   {
     icon: '🌐',
@@ -23,7 +23,7 @@ const services = [
     icon: '⚡',
     title: 'Automatizaciones',
     desc: 'Conectamos tus herramientas para que los procesos repetitivos sucedan solos. Más tiempo para lo que importa.',
-    
+    tag: 'Agentes de IA que trabajan por vos',
   },
 ]
 
